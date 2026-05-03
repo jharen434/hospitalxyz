@@ -21,6 +21,7 @@ public class Paciente {
         String alergia;
         String telefono;
         String email;
+        System.out.println("cambio");
 
                 
     }
